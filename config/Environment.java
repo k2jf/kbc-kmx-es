@@ -1,6 +1,6 @@
-package com.k2data.kbc.kmxes.config;
+package com.k2data.kbc.kmx.es.config;
 
-import com.k2data.kbc.kmxes.kmx.KmxRestClient;
+import com.k2data.kbc.kmx.es.kmx.KmxRestClient;
 import de.otto.flummi.Flummi;
 import org.asynchttpclient.AsyncHttpClient;
 import org.asynchttpclient.DefaultAsyncHttpClient;

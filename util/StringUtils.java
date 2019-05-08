@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes.util;
+package com.k2data.kbc.kmx.es.util;
 
 public class StringUtils {
 

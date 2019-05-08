@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes;
+package com.k2data.kbc.kmx.es;
 
 public class EsException extends Exception {
 

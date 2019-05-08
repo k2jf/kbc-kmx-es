@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes.mapper;
+package com.k2data.kbc.kmx.es.mapper;
 
 public class IndexMapping {
 

@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes.flummi;
+package com.k2data.kbc.kmx.es.flummi;
 
 public enum DateInterval {
     YEAR("year"),

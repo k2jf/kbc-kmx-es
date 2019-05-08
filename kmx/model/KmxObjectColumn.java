@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes.kmx.model;
+package com.k2data.kbc.kmx.es.kmx.model;
 
 public class KmxObjectColumn {
 

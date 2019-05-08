@@ -16,10 +16,10 @@ liumingchun
 #环境要求：
 #java 8或以上版本
 #application.properties添加配置：
-kbc.kmxes.kmx.url=http://10.12.20.36:28090/object-rest
-kbc.kmxes.kmx.casurl=https://10.12.20.36:8443/cas
-kbc.kmxes.kmx.token=yJjdHkiOiJKV1QiLCJlbmMiOiJBMTkyQ0JDLUhTMzg0IiwiYWxnIjoiZGlyIn0..dyqX0ZN_iXwHs5_EzklOow.2186eoylidQXdO1jGJdby-Pfh7LG0aHS5JcHVBPwn01NUay9u2MpTiT1Ba0dqJevMQysyXSIezkiWX4lCyFKt7HML2SkrL5ZeQlsy5O9UwLj_waAmmpTyJgyJ7XZHzs7hnQIDjEOF-E90qse2Ziarh3q5bO8YWBtadJF2fEei0kOdCzZctrBRBVW8xp9vArg4pejjOM72Dpc9i24_W8lRo5BjXIrDIvMg80NGRRebclJqla_Quh71DF68uQ1Usij.SlUW9BM87geWbn6lT5IVItdRq7d6vvwh
-kbc.kmxes.url=http://10.12.20.23:9200/
+kbc.kmx.es.kmx.url=http://10.12.20.36:28090/object-rest
+kbc.kmx.es.kmx.casurl=https://10.12.20.36:8443/cas
+kbc.kmx.es.kmx.token=yJjdHkiOiJKV1QiLCJlbmMiOiJBMTkyQ0JDLUhTMzg0IiwiYWxnIjoiZGlyIn0..dyqX0ZN_iXwHs5_EzklOow.2186eoylidQXdO1jGJdby-Pfh7LG0aHS5JcHVBPwn01NUay9u2MpTiT1Ba0dqJevMQysyXSIezkiWX4lCyFKt7HML2SkrL5ZeQlsy5O9UwLj_waAmmpTyJgyJ7XZHzs7hnQIDjEOF-E90qse2Ziarh3q5bO8YWBtadJF2fEei0kOdCzZctrBRBVW8xp9vArg4pejjOM72Dpc9i24_W8lRo5BjXIrDIvMg80NGRRebclJqla_Quh71DF68uQ1Usij.SlUW9BM87geWbn6lT5IVItdRq7d6vvwh
+kbc.kmx.es.url=http://10.12.20.23:9200/
 
 #pom中操作：
 <!-- flummi依赖的netty组件需要只能版本，4.1.3.Final版本有bug -->

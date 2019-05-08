@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes.flummi;
+package com.k2data.kbc.kmx.es.flummi;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;

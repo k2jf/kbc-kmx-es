@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes.util;
+package com.k2data.kbc.kmx.es.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

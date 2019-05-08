@@ -1,12 +1,12 @@
-package com.k2data.kbc.kmxes;
+package com.k2data.kbc.kmx.es;
 
-import com.k2data.kbc.kmxes.flummi.BoolFilterBuilder;
-import com.k2data.kbc.kmxes.flummi.DateHistogramBuilder;
-import com.k2data.kbc.kmxes.flummi.DateInterval;
-import com.k2data.kbc.kmxes.kmx.KmxObjectService;
-import com.k2data.kbc.kmxes.mapper.IndexMapping;
-import com.k2data.kbc.kmxes.response.DeviceFileDateCountData;
-import com.k2data.kbc.kmxes.util.DateUtils;
+import com.k2data.kbc.kmx.es.flummi.BoolFilterBuilder;
+import com.k2data.kbc.kmx.es.flummi.DateHistogramBuilder;
+import com.k2data.kbc.kmx.es.flummi.DateInterval;
+import com.k2data.kbc.kmx.es.kmx.KmxObjectService;
+import com.k2data.kbc.kmx.es.mapper.IndexMapping;
+import com.k2data.kbc.kmx.es.response.DeviceFileDateCountData;
+import com.k2data.kbc.kmx.es.util.DateUtils;
 import de.otto.flummi.Flummi;
 import de.otto.flummi.SortOrder;
 import de.otto.flummi.aggregations.TermsBuilder;

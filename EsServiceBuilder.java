@@ -1,9 +1,9 @@
-package com.k2data.kbc.kmxes;
+package com.k2data.kbc.kmx.es;
 
 
-import com.k2data.kbc.kmxes.config.Environment;
-import com.k2data.kbc.kmxes.kmx.KmxObjectService;
-import com.k2data.kbc.kmxes.kmx.KmxObjectServiceImpl;
+import com.k2data.kbc.kmx.es.config.Environment;
+import com.k2data.kbc.kmx.es.kmx.KmxObjectService;
+import com.k2data.kbc.kmx.es.kmx.KmxObjectServiceImpl;
 
 public class EsServiceBuilder {
 

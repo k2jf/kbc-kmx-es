@@ -1,8 +1,8 @@
-package com.k2data.kbc.kmxes.kmx;
+package com.k2data.kbc.kmx.es.kmx;
 
 
-import com.k2data.kbc.kmxes.EsException;
-import com.k2data.kbc.kmxes.mapper.IndexMapping;
+import com.k2data.kbc.kmx.es.EsException;
+import com.k2data.kbc.kmx.es.mapper.IndexMapping;
 
 public interface KmxObjectService {
 

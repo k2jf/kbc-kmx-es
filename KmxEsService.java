@@ -1,6 +1,6 @@
-package com.k2data.kbc.kmxes;
+package com.k2data.kbc.kmx.es;
 
-import com.k2data.kbc.kmxes.response.DeviceFileDateCountData;
+import com.k2data.kbc.kmx.es.response.DeviceFileDateCountData;
 import java.util.List;
 import javax.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Value;
@@ -9,16 +9,16 @@ import org.springframework.stereotype.Service;
 @Service
 public class KmxEsService {
 
-    @Value("${kbc.kmxes.kmx.url}")
+    @Value("${kbc.kmx.es.kmx.url}")
     private String kmxUrl;
 
-    @Value("${kbc.kmxes.kmx.casurl}")
+    @Value("${kbc.kmx.es.kmx.casurl}")
     private String kmxCasUrl;
 
-    @Value("${kbc.kmxes.kmx.token}")
+    @Value("${kbc.kmx.es.kmx.token}")
     private String kmxToken;
 
-    @Value("${kbc.kmxes.url}")
+    @Value("${kbc.kmx.es.url}")
     private String esUrl;
 
     private EsService esService;

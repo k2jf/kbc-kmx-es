@@ -1,7 +1,7 @@
-package com.k2data.kbc.kmxes.kmx;
+package com.k2data.kbc.kmx.es.kmx;
 
 import com.alibaba.fastjson.JSON;
-import com.k2data.kbc.kmxes.kmx.model.KmxResponse;
+import com.k2data.kbc.kmx.es.kmx.model.KmxResponse;
 import com.k2data.platform.common.utils.cas.CasHttpClient;
 import java.util.Map;
 import java.util.Map.Entry;

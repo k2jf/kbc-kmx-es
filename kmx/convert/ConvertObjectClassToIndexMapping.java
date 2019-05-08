@@ -1,9 +1,9 @@
-package com.k2data.kbc.kmxes.kmx.convert;
+package com.k2data.kbc.kmx.es.kmx.convert;
 
-import com.k2data.kbc.kmxes.kmx.model.KmxObjectClass;
-import com.k2data.kbc.kmxes.kmx.model.KmxObjectColumn;
-import com.k2data.kbc.kmxes.mapper.IndexMapping;
-import com.k2data.kbc.kmxes.util.StringUtils;
+import com.k2data.kbc.kmx.es.kmx.model.KmxObjectClass;
+import com.k2data.kbc.kmx.es.kmx.model.KmxObjectColumn;
+import com.k2data.kbc.kmx.es.mapper.IndexMapping;
+import com.k2data.kbc.kmx.es.util.StringUtils;
 import java.util.List;
 
 public class ConvertObjectClassToIndexMapping {

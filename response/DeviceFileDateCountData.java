@@ -1,4 +1,4 @@
-package com.k2data.kbc.kmxes.response;
+package com.k2data.kbc.kmx.es.response;
 
 public class DeviceFileDateCountData {
 

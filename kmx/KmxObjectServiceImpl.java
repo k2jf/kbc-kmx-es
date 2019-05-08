@@ -1,11 +1,11 @@
-package com.k2data.kbc.kmxes.kmx;
+package com.k2data.kbc.kmx.es.kmx;
 
-import com.k2data.kbc.kmxes.EsException;
-import com.k2data.kbc.kmxes.kmx.convert.ConvertObjectClassToIndexMapping;
-import com.k2data.kbc.kmxes.kmx.model.KmxObjectClass;
-import com.k2data.kbc.kmxes.kmx.model.KmxResponse;
-import com.k2data.kbc.kmxes.kmx.model.ObjectClassesData;
-import com.k2data.kbc.kmxes.mapper.IndexMapping;
+import com.k2data.kbc.kmx.es.EsException;
+import com.k2data.kbc.kmx.es.kmx.convert.ConvertObjectClassToIndexMapping;
+import com.k2data.kbc.kmx.es.kmx.model.KmxObjectClass;
+import com.k2data.kbc.kmx.es.kmx.model.KmxResponse;
+import com.k2data.kbc.kmx.es.kmx.model.ObjectClassesData;
+import com.k2data.kbc.kmx.es.mapper.IndexMapping;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

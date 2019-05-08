@@ -1,6 +1,6 @@
-package com.k2data.kbc.kmxes.util;
+package com.k2data.kbc.kmx.es.util;
 
-import com.k2data.kbc.kmxes.EsException;
+import com.k2data.kbc.kmx.es.EsException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
